@@ -1,7 +1,7 @@
 # Amazingview
 
 ## Description
-This repository is actually a locally hosted website that works exactly like a lightbox gallery, which in this case, will display some of the world most wonderful views from several different states along with it's quick description. But since i'm still learning about this subject, feel free to correct me if i'm wrong, thanks :thumbsup:.
+This repository is my journey progress of learning web development containing a locally hosted website that works exactly like a lightbox gallery, which in this case, will display some of the world most wonderful views from several different states along with it's quick description. But since i'm still learning about this subject, feel free to correct me if i'm wrong, thanks :thumbsup:.
 
 ## Preview
 
